@@ -16,7 +16,7 @@
 ###
 
 <p align="center">
-  Aspiring AI Researcher • Incoming Denison University Freshman 🇻🇳
+  Aspiring AI Researcher • Freshman 🇻🇳
 </p>
 
 ###
